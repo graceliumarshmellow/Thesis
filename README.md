@@ -1,6 +1,6 @@
 # Thesis
 Here is most of the code used for my thesis on using deep learning to improve the quality of luminescence images.
-Some of the code requires to be run on a GPU and some require you to provide your own data.
+Some of the code requires to be run on a GPU. The dataset folders "clean" and "PoissonNoisy" contain multiple copies of the same image for your testing.
 
 The following code was written by Grace Liu:
 - CalculatePSNR&SSIM.ipynb - code used to calculate the PSNR and SSIM of an image
