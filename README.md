@@ -8,4 +8,6 @@ The following code was written by Grace Liu:
 - AddPoissonNoise.m - code used to add Poisson noise to the clean images. Note that noisy images used for the project had Gaussian and Poisson noise. It is just Gaussian was added via a method shown in ELImagesCode.ipynb. This code was built off code from Dr. Priya Dwivedi
 - fastai_env_personal_pc.yaml - environment setup to run all the code
 
+The trained models were too big to add to Github. To get the models, please contact me at z5207875@ad.unsw.edu.au to get the models or find me on LinkedIn. 
+
 See the README BM3D for the credits of the BM3D code. BM3D.py was modified for this project.
